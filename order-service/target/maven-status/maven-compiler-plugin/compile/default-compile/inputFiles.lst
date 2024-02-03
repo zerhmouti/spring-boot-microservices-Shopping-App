@@ -1,0 +1,11 @@
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\dto\InventoryResponse.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\OrderServiceApplication.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\model\OrderLineItems.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\service\OrderService.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\dto\OrderLineItemsDto.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\dto\OrderRequest.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\controller\OrderController.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\repository\OrderRepository.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\config\WebClientConfig.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\event\OrderListEvent.java
+C:\Users\yassine\Desktop\AF\spring\spring-test\microservices-new\order-service\src\main\java\com\zerhmouti\orderservice\model\Order.java

@@ -1,0 +1,14 @@
+com\zerhmouti\orderservice\dto\InventoryResponse.class
+com\zerhmouti\orderservice\service\OrderService.class
+com\zerhmouti\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\zerhmouti\orderservice\config\WebClientConfig.class
+com\zerhmouti\orderservice\repository\OrderRepository.class
+com\zerhmouti\orderservice\dto\OrderRequest.class
+com\zerhmouti\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\zerhmouti\orderservice\dto\OrderLineItemsDto.class
+com\zerhmouti\orderservice\model\OrderLineItems.class
+com\zerhmouti\orderservice\OrderServiceApplication.class
+com\zerhmouti\orderservice\controller\OrderController.class
+com\zerhmouti\orderservice\model\Order.class
+com\zerhmouti\orderservice\model\Order$OrderBuilder.class
+com\zerhmouti\orderservice\event\OrderListEvent.class

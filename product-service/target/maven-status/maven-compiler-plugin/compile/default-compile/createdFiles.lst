@@ -1,0 +1,10 @@
+com\zerhmouti\productservice\dto\ProductResponse.class
+com\zerhmouti\productservice\ProductServiceApplication.class
+com\zerhmouti\productservice\dto\ProductRequest.class
+com\zerhmouti\productservice\model\Product$ProductBuilder.class
+com\zerhmouti\productservice\model\Product.class
+com\zerhmouti\productservice\service\ProductService.class
+com\zerhmouti\productservice\controller\ProductController.class
+com\zerhmouti\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\zerhmouti\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\zerhmouti\productservice\repository\ProductRepository.class

@@ -1,0 +1,8 @@
+com\zerhmouti\inventoryservice\InventoryServiceApplication.class
+com\zerhmouti\inventoryservice\model\Inventory$InventoryBuilder.class
+com\zerhmouti\inventoryservice\repository\InventoryRepository.class
+com\zerhmouti\inventoryservice\model\Inventory.class
+com\zerhmouti\inventoryservice\controller\InventoryController.class
+com\zerhmouti\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\zerhmouti\inventoryservice\dto\InventoryResponse.class
+com\zerhmouti\inventoryservice\service\InventoryService.class
